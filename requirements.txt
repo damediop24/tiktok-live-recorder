@@ -7,3 +7,6 @@ httpx
 aiohttp
 websockets
 pycryptodome
+telethon
+distro
+uv
